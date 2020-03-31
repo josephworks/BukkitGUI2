@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.40629.0
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bukkitgui2", "bukkitgui2\bukkitgui2.csproj", "{0AEF421A-A71F-4642-9C9B-621F58FD7735}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BukkitGUI2", "BukkitGUI2\BukkitGUI2.csproj", "{0AEF421A-A71F-4642-9C9B-621F58FD7735}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonApiConnector", "JsonApiConnector\JsonApiConnector.csproj", "{975CEB77-4212-4532-B834-E19A9B824856}"
 EndProject
@@ -30,5 +30,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB1902E0-2B5D-47C2-AB72-EDF8DD72ECD2}
 	EndGlobalSection
 EndGlobal
