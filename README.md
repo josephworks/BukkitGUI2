@@ -1,7 +1,7 @@
 
-# bukkitgui 2
+# BukkitGUI 2
 The original bukkit GUI project - shortened BukkitGUI - was intended to provide minecraft server owners with a easy to use, powerful GUI.
-BukkitGui2 continues with the same mindset, but with higher performance and better code.
+BukkitGUI2 continues with the same mindset, but with higher performance and better code.
 
 ## Features
 * Coloured output, colours definable in settings
