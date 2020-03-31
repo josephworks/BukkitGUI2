@@ -1,6 +1,3 @@
-This project has been abandoned. Pull requests will be reviewed and accepted, but no active development is happening anymore.
-
----------
 
 ## bukkitgui 2
 The original bukkit GUI project - shortened BukkitGUI - was intended to provide minecraft server owners with a easy to use, powerful GUI.
